@@ -1,0 +1,11 @@
+#source https://gizmodo.com/can-you-solve-the-10-hardest-logic-puzzles-ever-created-1064112665
+
+8........
+..36.....
+.7..9.2..
+.5...7...
+....457..
+...1...3.
+..1....68
+..85...1.
+.9....4..

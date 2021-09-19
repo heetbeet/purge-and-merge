@@ -1,2 +1,2 @@
-# purge-and-merge
- Puzzle database and solver binaries for purge-and-merge
+# constraint-puzzles
+A collection of puzzles and their solvers using google or-tools

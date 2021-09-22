@@ -14,6 +14,10 @@ A collection of puzzles and binaries used in the publication _Strengthening prob
 # How to run purge-and-merge
 The the purge-and-merge algorithm uses Stellenbosch University's emdw library, which is currently closed source. We are working on bringing the code into the open domain, but for now we cannot share it yet. All algorithms used in this paper is therefore shared in binary form and is made available as `bin.tar.gz` in [releases](https://github.com/heetbeet/purge-and-merge/releases/latest)
 
+In order to run the binaries, first install the following dependencies:
+
+    sudo apt-get install build-essential liblapack-dev libblas-dev libexpat1-dev zlib1g-dev
+
 ## run_purge_and_merge
 `Usage run_purge_and_merge <puzzle-type> <input-puzzle> [<input-puzzle>...]`
 

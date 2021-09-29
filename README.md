@@ -13,7 +13,7 @@ A collection of puzzles and binaries used in the publication _Strengthening prob
 - `gizmodo-10-hardest-puzzles` is [sourced from gizmodo.com](https://gizmodo.com/can-you-solve-the-10-hardest-logic-puzzles-ever-created-1064112665). It contains ten puzzles, one of each of the above-mentioned types .
 
 # How to run purge-and-merge
-The the purge-and-merge algorithm uses Stellenbosch University's emdw library, which is currently closed source. We are working on bringing the code into the open domain, but for now we cannot share it yet. All algorithms used in this paper is therefore shared in binary form and is made available as `bin.tar.gz` in [releases](https://github.com/heetbeet/purge-and-merge/releases/latest)
+The the purge-and-merge algorithm uses Stellenbosch University's emdw library, which is currently closed source. We are working on bringing the code into the open domain, but for now it is still tied to a licensing  agreement. All algorithms used in this paper is therefore shared in binary form and is made available as `bin.tar.gz` in [releases](https://github.com/heetbeet/purge-and-merge/releases/latest), tested on Ubuntu 20.04.3 LTS.
 
 In order to run the binaries, first install the following dependencies:
 

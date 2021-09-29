@@ -32,7 +32,7 @@ For example: `./run_purge_and_merge calcudoku "calcudoku-collection/calcudoku-me
 ## run_puzzle_to_uai
 `Usage: run_puzzle_to_uai <puzzle-type> <input-puzzle> <output-file>`
 
-⚠️Warning `run_puzzle_to_uai` works only on the default filetype versions of Sumsudoku and Calcudoku and not on the `-(legacy-format)` versions⚠️
+⚠️Warning `run_puzzle_to_uai` works only on default filetype versions and not `-(legacy-format)` versions⚠️
 
 - `puzzle-type` can be one of: `sudoku`, `sumsudoku`, `calcudoku`, `kakuro` or `fillapix`. 
 - `input-puzzle...`: Filepath to a puzzle.

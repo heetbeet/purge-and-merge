@@ -18,6 +18,12 @@ The the purge-and-merge algorithm uses Stellenbosch University's emdw library, w
 In order to run the binaries, first install the following dependencies:
 
     sudo apt-get install build-essential liblapack-dev libblas-dev libexpat1-dev zlib1g-dev
+    
+Also, remember to add execution privileges to the entry point scripts:
+
+    chmod +x run_purge_and_merge
+    chmod +x run_puzzle_to_uai
+    chmod +x run_ace_on_uai
 
 ## run_purge_and_merge
 `Usage: run_purge_and_merge <puzzle-type> <input-puzzle> [<input-puzzle>...]`

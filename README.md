@@ -1,4 +1,4 @@
-# purge-and-merge
+# Purge-and-merge
 A collection of puzzles and binaries used in the publication _Strengthening probabilistic graphical models: the purge-and-merge algorithm_
 
 # Puzzle databases
